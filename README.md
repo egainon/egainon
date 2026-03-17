@@ -20,9 +20,9 @@ J'aime découvrir de nouvelles façons de faire, comprendre comment les choses s
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
 
 ## 🌱 En parallèle du code
-🧵 Broderie (thérapie anti-bug)   
-🍮 Exploration culinaire (cherche désespérément LE flan parfait)  
-🎬 Séries TV (trop nombreuses pour être listées)  
+- 🧵 Broderie (thérapie anti-bug)   
+- 🍮 Exploration culinaire (cherche désespérément LE flan parfait)  
+- 🎬 Séries TV (trop nombreuses pour être listées)  
 
 ## 📫 Me contacter
 📧 [emiliegainon@hotmail.fr](mailto:emiliegainon@hotmail.fr) · 
