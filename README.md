@@ -6,6 +6,7 @@ J'aime découvrir de nouvelles façons de faire, comprendre comment les choses s
 
 🔍 **À la recherche d'une alternance de 24 mois à partir de juin 2026**.
 
+
 ## 🛠️ Stack technique
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -17,6 +18,12 @@ J'aime découvrir de nouvelles façons de faire, comprendre comment les choses s
 ![Neon](https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neon&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
+
+## 🌱 En parallèle du code
+🧵 Broderie (thérapie anti-bug)  
+📚 Romans graphiques & lecture  
+🍮 Exploration culinaire (cherche désespérément LE flan parfait)  
+🎬 Séries TV (trop nombreuses pour être listées)  
 
 ## 📫 Me contacter
 📧 [emiliegainon@hotmail.fr](mailto:emiliegainon@hotmail.fr) · 
