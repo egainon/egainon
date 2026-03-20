@@ -4,7 +4,7 @@ Après 10 ans à organiser de l'information dans des cases en tant que documenta
 Me voilà donc en formation fullstack à [Ada Tech School](https://adatechschool.fr/), où chaque projet est une occasion d'explorer. 
 J'aime découvrir de nouvelles façons de faire, comprendre comment les choses s'imbriquent — de la base de données à l'interface — et apprendre en mettant les mains dans le code.
 
-🔍 **À la recherche d'une alternance de 24 mois à partir de juin 2026**.
+🔍 **À la recherche d'une alternance à partir de juin 2026**.
 
 
 ## 🛠️ Stack technique
